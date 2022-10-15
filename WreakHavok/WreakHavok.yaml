@@ -1,0 +1,7 @@
+name: Wreak Havok
+internal_name: WreakHavok
+author: perchbird
+punchline: View Havok information in-game
+description: |-
+  View Havok information in-game. /havok
+repo_url: https://github.com/lmcintyre/wreakhavok
